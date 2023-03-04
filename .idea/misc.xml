@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/hp/AndroidStudioProjects/github/app/src/main/res/layout/activity_main.xml" value="0.275" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/github/app/src/main/res/drawable/bg_ui.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/github/app/src/main/res/drawable/et_custom.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/github/app/src/main/res/drawable/ic_delete.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/github/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/github/app/src/main/res/layout/activity_second.xml" value="0.1" />
       </map>
     </option>
   </component>
